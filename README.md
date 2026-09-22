@@ -1,16 +1,51 @@
-## Hi there 👋
-
-<!--
-**noahmundeling-source/noahmundeling-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Name", "value": "{{name}}" },
+        { "key": "OS", "value": "Windows, Linux" },
+        { "key": "Status", "value": "Beginner Developer" },
+        { "key": "Uptime", "value": "{{uptime}}" },
+        { "key": "IDE", "value": "Visual Studio Code, Visual Studio" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Programming", "value": "Python, C#" },
+        { "key": "Languages", "value": "Danish, English" },
+        { "key": "Currently.Learning", "value": "Programming, Networking, Operating Systems" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Hobbies.Software", "value": "Coding" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "noahmundeling@gmail.com" },
+        { "key": "GitHub", "value": "github.com/{{username}}" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      {
+        "left": { "key": "Repos", "value": "{{repos}}" },
+        "right": { "key": "Stars", "value": "{{stars}}" }
+      },
+      {
+        "left": { "key": "Commits", "value": "{{commits}}" },
+        "right": { "key": "Followers", "value": "{{followers}}" }
+      },
+      {
+        "left": { "key": "Issues", "value": "{{issues}}" },
+        "right": { "key": "PRs", "value": "{{prs}}" }
+      },
+      "loc"
+    ]
+  }
+}
