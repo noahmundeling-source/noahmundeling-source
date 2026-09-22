@@ -1,51 +1,10 @@
-{
-  "sections": [
-    {
-      "title": "{{username}}@github",
-      "fields": [
-        { "key": "Name", "value": "{{name}}" },
-        { "key": "OS", "value": "Windows, Linux" },
-        { "key": "Status", "value": "Beginner Developer" },
-        { "key": "Uptime", "value": "{{uptime}}" },
-        { "key": "IDE", "value": "Visual Studio Code, Visual Studio" }
-      ]
-    },
-    {
-      "fields": [
-        { "key": "Programming", "value": "Python, C#" },
-        { "key": "Languages", "value": "Danish, English" },
-        { "key": "Currently.Learning", "value": "Programming, Networking, Operating Systems" }
-      ]
-    },
-    {
-      "fields": [
-        { "key": "Hobbies.Software", "value": "Coding" }
-      ]
-    },
-    {
-      "title": "- Contact",
-      "fields": [
-        { "key": "Email", "value": "noahmundeling@gmail.com" },
-        { "key": "GitHub", "value": "github.com/{{username}}" }
-      ]
-    }
-  ],
-  "stats": {
-    "title": "- GitHub Stats",
-    "rows": [
-      {
-        "left": { "key": "Repos", "value": "{{repos}}" },
-        "right": { "key": "Stars", "value": "{{stars}}" }
-      },
-      {
-        "left": { "key": "Commits", "value": "{{commits}}" },
-        "right": { "key": "Followers", "value": "{{followers}}" }
-      },
-      {
-        "left": { "key": "Issues", "value": "{{issues}}" },
-        "right": { "key": "PRs", "value": "{{prs}}" }
-      },
-      "loc"
-    ]
-  }
-}
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://neofetch-profile.vercel.app/api?username=noahmundeling-source&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fnoahmundeling-source%2Fnoahmundeling-source%2Fmain%2Fneofetch.json">
+    <img
+      alt="Noah Mundelings GitHub-profil"
+      src="https://neofetch-profile.vercel.app/api?username=noahmundeling-source&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fnoahmundeling-source%2Fnoahmundeling-source%2Fmain%2Fneofetch.json">
+  </picture>
+</p>
