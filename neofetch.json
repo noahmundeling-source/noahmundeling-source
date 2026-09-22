@@ -1,10 +1,11 @@
 
 {
-    "coloredImage": true,
-  "imageScale": 2,
-  "imageOffsetY": "15%",
+  
+    
+      "coloredImage": true,
+  "imageScale": 1,
+  "imageOffsetY": "0%",
   "sections": [
-    {
       "title": "{{username}}@github",
       "fields": [
         { "key": "Name", "value": "{{name}}" },
