@@ -1,5 +1,6 @@
 {
   "coloredImage": true,
+  "removeBackground": true,
   "imageScale": 1,
   "imageOffsetY": "0%",
   "sections": [
