@@ -1,11 +1,9 @@
-
 {
-  
-    
-      "coloredImage": true,
+  "coloredImage": true,
   "imageScale": 1,
   "imageOffsetY": "0%",
   "sections": [
+    {
       "title": "{{username}}@github",
       "fields": [
         { "key": "Name", "value": "{{name}}" },
@@ -19,10 +17,7 @@
       "fields": [
         { "key": "Programming", "value": "Python, C#" },
         { "key": "Languages", "value": "Danish, English" },
-        {
-          "key": "Currently.Learning",
-          "value": "Programming, Networking, Operating Systems"
-        }
+        { "key": "Currently.Learning", "value": "Programming, Networking, Operating Systems" }
       ]
     },
     {
