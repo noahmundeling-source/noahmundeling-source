@@ -1,11 +1,54 @@
-": "Commits", "value": "{{commits}}" },
+{
+  "coloredImage": true,
+  "imageScale": 1,
+  "imageOffsetY": "0%",
+  "sections": [
+    {
+      "title": "Noah Mundeling | Aspiring Software Developer",
+      "fields": [
+        { "key": "Name", "value": "Noah Mundeling" },
+        { "key": "OS", "value": "Windows, Linux" },
+        { "key": "Status", "value": "Aspiring Software Developer" },
+        { "key": "Uptime", "value": "{{uptime}}" },
+        { "key": "IDE", "value": "Visual Studio Code, Visual Studio" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Programming", "value": "Python, C#" },
+        { "key": "Languages", "value": "Danish, English" },
+        { "key": "Learning.Networking", "value": "Networking" },
+        { "key": "Learning.Systems", "value": "Operating Systems" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Hobbies.Software", "value": "Coding, Gaming" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "noahmundeling@gmail.com" },
+        { "key": "GitHub", "value": "github.com/noahmundeling-source" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      {
+        "left": { "key": "Repos", "value": "{{repos}}" },
+        "right": { "key": "Stars", "value": "{{stars}}" }
+      },
+      {
+        "left": { "key": "Commits", "value": "{{commits}}" },
         "right": { "key": "Followers", "value": "{{followers}}" }
       },
       {
         "left": { "key": "Issues", "value": "{{issues}}" },
         "right": { "key": "PRs", "value": "{{prs}}" }
-      },
-      "loc"
+      }
     ]
   }
 }
