@@ -2,9 +2,9 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://neofetch-profile.vercel.app/api?username=noahmundeling-source&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fnoahmundeling-source%2Fnoahmundeling-source%2Fmain%2Fneofetch.json%3Fv%3D9&v=9">
+      srcset="https://neofetch-profile.vercel.app/api?username=noahmundeling-source&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fnoahmundeling-source%2Fnoahmundeling-source%2Fmain%2Fneofetch.json%3Fv%3D10&v=10">
     <img
       alt="Noah Mundelings GitHub-profil"
-      src="https://neofetch-profile.vercel.app/api?username=noahmundeling-source&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fnoahmundeling-source%2Fnoahmundeling-source%2Fmain%2Fneofetch.json%3Fv%3D9&v=9">
+      src="https://neofetch-profile.vercel.app/api?username=noahmundeling-source&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2Fnoahmundeling-source%2Fnoahmundeling-source%2Fmain%2Fneofetch.json%3Fv%3D10&v=10">
   </picture>
 </p>
